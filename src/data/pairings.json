@@ -1,0 +1,22 @@
+[
+    ["Real Madrid", "Barcelona"],
+    ["Real Madrid", "Atlético"],
+
+    ["Manchester City", "Manchester United"],
+    ["Chelsea", "Arsenal"],
+    ["Chelsea", "Tottenham"],
+    ["Arsenal", "Tottenham"],
+
+    ["Milan", "Inter"],
+
+    ["Benfica", "Porto"],
+    ["Benfica", "Sporting"],
+
+    ["CSKA", "Spartak"],
+    ["CSKA", "Zenit"],
+    ["Zenit", "Spartak"],
+
+    ["Shakhtar", "Dinamo Kiev"],
+
+    ["Olympiakos", "Panathinaikos"]
+]
